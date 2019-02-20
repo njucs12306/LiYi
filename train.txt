@@ -1,0 +1,4 @@
+D1, 100|Beijing,80|Tangshanbei,80|Beidaihe,100|Shenyang,100|Shenyangnan,0|
+D2, 100|Shenyangnan,100|Shenyang,100|Liaozhong,100|Jinzhounan,100|Tangshanbei,100|Beijing,0|
+D55, 100|Nanjing,85|Danyang,85|Zhenjiang,85|Changzhou,85|Wuxi,85|Suzhou,85|Shanghai,0|
+D98, 100|Nanjing,100|Hefei,100|Chuzhou,0|
